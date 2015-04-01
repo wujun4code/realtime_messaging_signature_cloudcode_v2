@@ -1,0 +1,8 @@
+{
+    "applicationName" : "Signatire sapmle",
+    "applicationId": "YOUR APPID",
+    "applicationKey": "YOUR APPKEY",
+    "global": {
+        "avVersion": "0.3.1"
+    }
+}
